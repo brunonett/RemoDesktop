@@ -1,0 +1,16 @@
+C:\Users\bruno\Desktop\Remote\serve\Servidor.exe.config
+C:\Users\bruno\Desktop\Remote\serve\Servidor.exe.manifest
+C:\Users\bruno\Desktop\Remote\serve\Servidor.application
+C:\Users\bruno\Desktop\Remote\serve\Servidor.exe
+C:\Users\bruno\Desktop\Remote\serve\Servidor.pdb
+C:\Users\bruno\Desktop\Remote\serve\Servidor.xml
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.Form1.resources
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.Form2.resources
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.Resources.resources
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.vbproj.GenerateResource.cache
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.vbproj.CoreCompileInputs.cache
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.exe.manifest
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.application
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.exe
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.xml
+E:\brunoProjetosC#\RemoteDesktop\WindowsApp1\obj\Debug\Servidor.pdb

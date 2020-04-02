@@ -1,0 +1,16 @@
+E:\brunoProjetosC#\RemoteDesktop\cliente\bin\Debug\cliente.exe.config
+E:\brunoProjetosC#\RemoteDesktop\cliente\bin\Debug\cliente.exe
+E:\brunoProjetosC#\RemoteDesktop\cliente\bin\Debug\cliente.pdb
+E:\brunoProjetosC#\RemoteDesktop\cliente\bin\Debug\cliente.xml
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.vbprojAssemblyReference.cache
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.Form1.resources
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.Resources.resources
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.vbproj.GenerateResource.cache
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.vbproj.CoreCompileInputs.cache
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.exe
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.xml
+E:\brunoProjetosC#\RemoteDesktop\cliente\obj\Debug\cliente.pdb
+C:\Users\bruno\Desktop\Remote\client\cliente.exe.config
+C:\Users\bruno\Desktop\Remote\client\cliente.exe
+C:\Users\bruno\Desktop\Remote\client\cliente.pdb
+C:\Users\bruno\Desktop\Remote\client\cliente.xml
